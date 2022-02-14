@@ -1,2 +1,2 @@
 # koodous
-Koodous Web Microservice by using Django.
+Koodous Secure Microservice by using Django.
